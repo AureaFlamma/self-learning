@@ -1,0 +1,8 @@
+Topics to explore next:
+1. Git + Github advanced
+2. Nano text editor. 
+3. Jest basics
+
+Smaller questions:
+1. how do I get jest to run only one file? One test? 
+
