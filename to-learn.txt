@@ -1,4 +1,9 @@
-Topics to explore next:
+Things I need to learn to be a serious dev:
+1. Advanced git
+2. Serverside vs clientside
+
+
+Assorted topics to explore next:
 1. Git + Github advanced
 2. Nano text editor. 
 3. Jest basics

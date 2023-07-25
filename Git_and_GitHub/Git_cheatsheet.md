@@ -4,10 +4,12 @@
 
 ## Config 
 
+<br>
+
 ### Change text editor
 
-<b>Nano | </b> 
- `git config --global core.editor "nano -w"`
+<br>
 
+<b>Nano</b> 
 ```
 git config --global core.editor "nano -w"
