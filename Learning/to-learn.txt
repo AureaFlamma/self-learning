@@ -1,0 +1,10 @@
+Things I need to learn to be a serious dev:
+1. Advanced git
+2. Advanced JS:
+    -asynchronous code
+3. Advanced Typescript
+4. Advanced React:
+    -all the hooks
+5. Next
+
+
